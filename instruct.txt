@@ -1,0 +1,7 @@
+BE:
+B1: Chạy lệnh "npm i" để tải các package cần thiết cho dự án vì khi commit s ko commit folder "mode_modules"
+B2: Chạy lệnh "npm start" để chạy chương trình
+
+FE: 
+B1: Chạy lệnh "npm i" để tải các package cần thiết cho dự án vì khi commit s ko commit folder "mode_modules"
+B2: Chạy lệnh "npm start" để chạy chương trình
